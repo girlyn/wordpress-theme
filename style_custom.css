@@ -1,0 +1,694 @@
+
+body
+		{ font-size: 12px; }
+
+#mpcth_page_wrap #mpcth_sidebar a:hover,#mpcth_page_wrap #mpcth_footer a:hover,#mpcth_page_wrap #mpcth_header_area a:hover, a
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap .mpcth-color-main-color,#mpcth_page_wrap .mpcth-color-main-color-hover:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap .mpcth-color-main-background,#mpcth_page_wrap .mpcth-color-main-background-hover:hover,#mpcth_page_wrap #mpcth_load_more.mpcth-color-main-background-hover:hover,#mpcth_page_wrap #mpcth_shop_load_more.mpcth-color-main-background-hover:hover,#mpcth_page_wrap .esg-loadmore:hover
+		{ background-color: #e87f7f; }
+
+#mpcth_page_wrap .mpcth-color-main-border,#mpcth_page_wrap .mpcth-color-main-border-hover:hover
+		{ border-color: #e87f7f !important; }
+
+.bbpress #mpcth_content .bbp-replies .reply .bbp-reply-header .bbp-reply-permalink:hover,
+.bbpress #mpcth_content .bbp-replies .topic .bbp-reply-header .bbp-reply-permalink:hover,
+.bbpress #mpcth_content .bbp-replies .reply .bbp-reply-admin-links .bbp-admin-links a:hover,
+.bbpress #mpcth_content .bbp-replies .topic .bbp-reply-admin-links .bbp-admin-links a:hover,
+.bbpress #mpcth_content #bbp-user-wrapper #bbp-single-user-details #bbp-user-navigation .current a,
+.bbpress #mpcth_content #bbp-user-wrapper #bbp-single-user-details #bbp-user-navigation a:hover,
+.mpc-vc-newsletter #mpcth_newsletter .mpcth-newsletter-subscribe input:hover,
+.mpc-vc-newsletter #mpcth_newsletter .mc4wp-form input[type=submit]:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_controls_wrap #mpcth_controls_container > a.active, #mpcth_page_wrap #mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_controls_wrap #mpcth_controls_container > a:hover,#jckqv .woocommerce-product-rating .star-rating span:before,#mpcth_page_wrap .woocommerce .mpcth-post-header .mpcth-quick-view .fa:hover,.woocommerce-page #mpcth_page_wrap .mpcth-post-header .mpcth-quick-view .fa:hover,#mpcth_page_wrap .woocommerce .mpcth-post-header .yith-wcwl-add-to-wishlist .fa:hover,.woocommerce-page #mpcth_page_wrap .mpcth-post-header .yith-wcwl-add-to-wishlist .fa:hover,#mpcth_back_to_top:hover,.woocommerce #mpcth_page_wrap .mpcth-shop-style-slim .products .product .mpcth-post-content .fa,.woocommerce #mpcth_page_wrap .mpcth-shop-style-slim .products .product .mpcth-post-content a:hover,.woocommerce #mpcth_page_wrap .mpcth-shop-style-slim .products .product .mpcth-post-content .add_to_cart_button i,.woocommerce #mpcth_page_wrap .mpcth-shop-style-center .products .product .mpcth-post-content .fa,.woocommerce #mpcth_page_wrap .mpcth-shop-style-center .products .product .mpcth-post-content a:hover,#mpcth_page_wrap .woocommerce .mpcth-shop-style-slim .products .product .mpcth-post-content .fa,#mpcth_page_wrap .woocommerce .mpcth-shop-style-slim .products .product .mpcth-post-content a:hover,#mpcth_page_wrap .woocommerce .mpcth-shop-style-slim .products .product .mpcth-post-content .add_to_cart_button i,#mpcth_page_wrap .woocommerce .mpcth-shop-style-center .products .product .mpcth-post-content .fa,#mpcth_page_wrap .woocommerce .mpcth-shop-style-center .products .product .mpcth-post-content a:hover,.page-template-template-blog-php #mpcth_content .mpcth-post .mpcth-post-title > a:hover,.archive #mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-title > a:hover,#mpcth_page_wrap .mpcth-mobile-menu .page_item > a:hover,#mpcth_page_wrap .mpcth-mobile-menu .menu-item > a:hover,#mpcth_page_wrap .mpcth-mobile-menu .page_item.current-menu-item > a,#mpcth_page_wrap .mpcth-mobile-menu .menu-item.current-menu-item > a,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .summary .stock.out-of-stock,.woocommerce-wishlist #mpcth_page_wrap #mpcth_content .yith-wcwl-share li a:hover,#mpcth_page_wrap .wpcf7 .contact-form-input label,#mpcth_page_wrap .wpcf7 .contact-form-message label,#mpcth_page_wrap .woocommerce.widget.widget_layered_nav .chosen a,#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter input[type=submit]:hover,#mpcth_page_wrap #mpcth_smart_search_wrap .mpcthSelect,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .star-rating span,#mpcth_page_wrap .widget_product_categories .product-categories .cat-item.current-cat > a,#mpcth_page_wrap .products .product .mpcth-post-content .product_type_variable:hover,#mpcth_page_wrap .products .product .mpcth-post-content .add_to_cart_button:hover,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs #review_form_wrapper .stars a:hover,#mpcth_page_wrap #mpcth_comments #mpcth_comments_wrap .mpcth-comment-header a:hover,#mpcth_page_wrap .widget .product_list_widget li .star-rating > span,#mpcth_page_wrap .widget .product_list_widget li a,#mpcth_page_wrap #mpcth_main .nivoSlider .nivo-directionNav a,#mpcth_page_wrap #mpcth_main .rev_slider_wrapper .tparrows.default,#mpcth_page_wrap #mpcth_main .flexslider .flex-direction-nav a,#mpcth_page_wrap #mpcth_main .widget a:hover,#mpcth_page_wrap #mpcth_main .widget.widget_text a,#mpcth_page_wrap .widget.mpc-w-twitter-widget a,#mpcth_page_wrap .mpc-sc-tooltip-wrap .mpc-sc-tooltip-text,#mpcth_page_wrap #mpcth_smart_search_wrap select,#mpcth_page_wrap #mpcth_smart_search_wrap input,#mpcth_page_wrap #mpcth_page_header_secondary_content a:hover,#mpcth_page_wrap #mpcth_main .vc_text_separator > div,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li.active a,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li:hover a,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-accordions h6.active a,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-accordions h6:hover a,.woocommerce-page #mpcth_page_wrap .woocommerce-breadcrumb a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_accordion_header.ui-state-active a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_accordion_header:hover a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle.wpb_toggle_title_active .mpcth-title-wrap,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle:hover .mpcth-title-wrap,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle.wpb_toggle_title_active .mpcth-toggle-mark,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle:hover .mpcth-toggle-mark,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tabs .wpb_tabs_nav > li.ui-state-active > a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tabs .wpb_tabs_nav > li.ui-state-hover > a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li.ui-state-active > a > span,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li.ui-state-hover > a > span,#mpcth_page_wrap .mpcth-menu .page_item:hover > a,#mpcth_page_wrap #mpcth_mini_cart a.mpcth-mini-cart-title,#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .mpcth-menu .menu-item:hover > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .mpcth-menu .page_item.current-menu-item > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .mpcth-menu .menu-item.current-menu-item > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav #mpcth_mega_menu .widget ul .menu-item > a:hover,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav #mpcth_mega_menu .widget .sub-container > .sub-menu li > a:hover,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav #mpcth_mega_menu .widget ul .menu-item.current-page-ancestor > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav #mpcth_mega_menu .widget ul .menu-item.current-menu-item > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .current-page-ancestor > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .current-menu-ancestor > a,body #mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .current_page_ancestor > a,#mpcth_page_wrap .widget_nav_menu .page_item.current-menu-item > a,#mpcth_page_wrap .widget_nav_menu .menu-item.current-menu-item > a,#mpcth_page_wrap .widget_nav_menu .current-page-ancestor > a,#mpcth_page_wrap .widget_nav_menu .current-menu-ancestor > a,#mpcth_page_wrap .widget_nav_menu .current_page_ancestor > a,#mpcth_page_wrap .mpcth-socials-list li a:hover,#mpcth_page_wrap #mpcth_content .product .mpcth-post-content .price ins .amount,.woocommerce-page #mpcth_page_wrap #mpcth_content .products .product .mpcth-post-categories a:hover,.page-template-template-portfolio-php #mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-content .mpcth-post-categories a:hover,.page-template-template-portfolio-php #mpcth_page_wrap #mpcth_portfolio_sorts li.active,.page-template-template-portfolio-php #mpcth_page_wrap #mpcth_portfolio_filters li.active
+		{ color: #e87f7f; }
+
+.woocommerce a.remove {
+	color: #e87f7f !important;
+}
+.woocommerce a.remove:hover {
+	color: red !important;
+}
+
+.blog #mpcth_page_wrap  #mpcth_content.mpcth-blog-layout-full-alt .mpcth-post .mpcth-post-footer .mpcth-read-more:hover,
+.page-template-template-blog-php #mpcth_page_wrap #mpcth_content.mpcth-blog-layout-full-alt .mpcth-post .mpcth-post-footer .mpcth-read-more:hover {
+	background: none !important;
+	color: #e87f7f !important;
+}
+
+.mpcth-page .mpcth-page-content .post-password-form input[type=submit],.mpc-vc-newsletter #mpcth_newsletter .mpcth-newsletter-subscribe input,.mpc-vc-newsletter #mpcth_newsletter .mc4wp-form input[type=submit],.page-template-template-blog-php #mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more:hover,#mpcth_page_wrap .format-chat .mpcth-post-thumbnail .mpcth-chat-message-odd .mpcth-chat-message-text,#mpcth_page_wrap .gform_wrapper input[type=submit]:hover,.bbpress #mpcth_content .bbp-body .bbp-topic-pagination a:hover,.bbpress #mpcth_page_wrap #mpcth_content .button:hover,#mpcth_mini_search #searchsubmit:hover, #jckqv #jckqv_summary .onsale,#jckqv #jckqv_summary .yith-wcwl-add-to-wishlist a:hover,#jckqv #jckqv_summary .single_add_to_cart_button,#jckqv #jckqv_summary h1:after,#jckqv #jckqv_summary .product_meta:after,.woocommerce-wishlist #mpcth_page_wrap #mpcth_content a.button,#mpcth_page_wrap #mpcth_mini_cart .button:hover,#mpcth_page_wrap #mpcth_mini_cart .button.alt,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .summary .yith-wcwl-add-to-wishlist a:hover,.page-template-template-blog-php #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more:hover,.archive #mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more:hover,.blog #mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more:hover,.woocommerce-page.single-product #mpcth_page_wrap .cart .quantity .plus-wrap:hover,.woocommerce-page.single-product #mpcth_page_wrap .cart .quantity .minus-wrap:hover,.woocommerce-cart #mpcth_page_wrap .cart .quantity .plus-wrap:hover,.woocommerce-cart #mpcth_page_wrap .cart .quantity .minus-wrap:hover,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .vc_separator.mpcth-separator .vc_sep_holder_l .vc_sep_line:before,#mpcth_page_wrap #mpcth_smart_search_wrap #searchsubmit,#mpcth_page_wrap .s2_form_widget form input[type=submit]:hover,#mpcth_page_wrap .mpcth-menu-label-hot,#mpcth_page_wrap .bra-photostream-widget ul li:hover a,.woocommerce-page.single-product #mpcth_page_wrap .cart .single_add_to_cart_button:hover,.woocommerce-cart #mpcth_page_wrap .cart .single_add_to_cart_button:hover,#mpcth_page_wrap .wpcf7 .form-submit .wpcf7-submit:hover,#mpcth_page_wrap #review_form_wrapper #submit:hover,#mpcth_page_wrap .widget #searchform #searchsubmit:hover,#mpcth_page_wrap .widget #searchform #searchsubmit.alt,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .product_meta:after,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .product_share:after,#mpcth_page_wrap .woocommerce #review_form_wrapper #submit:hover,#mpcth_page_wrap .woocommerce button.button:hover,#mpcth_page_wrap .woocommerce input.button:hover,#mpcth_page_wrap .woocommerce a.button:hover,.woocommerce #mpcth_page_wrap #review_form_wrapper #submit:hover,.woocommerce #mpcth_page_wrap button.button:hover,.woocommerce #mpcth_page_wrap input.button:hover,.woocommerce #mpcth_page_wrap a.button:hover,#mpcth_page_wrap .woocommerce #review_form_wrapper #submit.alt,#mpcth_page_wrap .woocommerce button.button.alt,#mpcth_page_wrap .woocommerce input.button.alt,#mpcth_page_wrap .woocommerce a.button.alt,.woocommerce #mpcth_page_wrap #review_form_wrapper #submit.alt,.woocommerce #mpcth_page_wrap button.button.alt,.woocommerce #mpcth_page_wrap input.button.alt,.woocommerce #mpcth_page_wrap a.button.alt,#mpcth_page_wrap #mpcth_main .wpb_separator:before,#mpcth_page_wrap #mpcth_main .vc_text_separator:before,#mpcth_page_wrap .woocommerce.widget.widget_layered_nav_filters .chosen a,#mpcth_page_wrap #mpcth_page_header_content #mpcth_controls_wrap #mpcth_controls_container > a:hover,#mpcth_page_wrap #mpcth_page_header_content #mpcth_controls_wrap #mpcth_controls_container > a.active,#mpcth_page_wrap .woocommerce.widget.widget_price_filter .ui-slider-handle,#mpcth_page_wrap .woocommerce.widget.widget_price_filter .ui-slider-range,#mpcth_page_wrap .woocommerce.widget.widget_price_filter .button:hover,#mpcth_page_wrap #mpcth_comments #respond #mpcth_comment_form .form-submit input:hover,.blog #mpcth_page_wrap #mpcth_content .post .mpcth-post-thumbnail .mpcth-lightbox,.page-template-template-blog-php #mpcth_page_wrap #mpcth_content .post .mpcth-post-thumbnail .mpcth-lightbox,#mpcth_page_wrap #mpcth_main .vc_carousel .vc_carousel-indicators li.vc_active,#mpcth_page_wrap #mpcth_main .wpb_posts_slider .nivo-controlNav a,#mpcth_page_wrap #mpcth_main .flexslider .flex-control-nav li a,#mpcth_page_wrap #mpcth_main .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet
+		{ background-color: #e87f7f; }
+
+.mpcth-page .mpcth-page-content .post-password-form input[type=submit],.mpcth-page .mpcth-page-content .post-password-form input[type=submit]:hover,#mpcth_back_to_top:hover,#mpcth_page_wrap .mpc-sc-tooltip-wrap .mpc-sc-tooltip-text,#mpcth_page_wrap .mpcth-deco-header span,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs #review_form_wrapper #reply-title,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li.active a,.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li:hover a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_accordion_header.ui-state-active a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_accordion_header:hover a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle.wpb_toggle_title_active .mpcth-title-wrap,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle:hover .mpcth-title-wrap,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle.wpb_toggle_title_active .mpcth-toggle-mark,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle:hover .mpcth-toggle-mark,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tabs .wpb_tabs_nav > li.ui-state-active > a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tabs .wpb_tabs_nav > li.ui-state-hover > a,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li.ui-state-active > a > span,#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li.ui-state-hover > a > span,#mpcth_page_wrap #mpcth_comments #reply-title,#mpcth_page_wrap #mpcth_main .vc_carousel .vc_carousel-indicators li.vc_active,#mpcth_page_wrap #mpcth_main .wpb_posts_slider .nivo-controlNav a.active,#mpcth_page_wrap #mpcth_main .flexslider .flex-control-nav li a.flex-active,#mpcth_page_wrap #mpcth_main .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,#mpcth_page_wrap .page_item.menu-item-has-children:after,#mpcth_page_wrap .menu-item.menu-item-has-children:after,#mpcth_page_wrap .page_item.menu-item-has-children:after,#mpcth_page_wrap .menu-item.menu-item-has-children:after
+		{ border-color: #e87f7f; }
+
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-accordions h6.active a span,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-accordions h6:hover a span,
+#mpcth_page_wrap #mpcth_main .wpb_call_to_action.cta_align_bottom .wpb_button_a:after,
+#mpcth_main .vc_cta3.vc_cta3-align-bottom .vc_btn3:after
+		{ border-bottom-color: #e87f7f; }
+
+#mpcth_page_wrap .mpcth-list-item:before,#mpcth_page_wrap ul li:before, #mpcth_page_wrap #mpcth_main ul li:before,ol li:before,#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter .mpcth-newsletter-toggle:before,#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter form:before,#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter .mpcth-newsletter-subscribe:before,#mpcth_page_wrap #mpcth_main .wpb_call_to_action.cta_align_left .wpb_button_a:after,
+#mpcth_main .vc_cta3.vc_cta3-align-left .vc_btn3:after
+		{ border-left-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_main .wpb_call_to_action.cta_align_right .wpb_button_a:after ,
+#mpcth_main .vc_cta3.vc_cta3-align-right .vc_btn3:after
+		{ border-right-color: #e87f7f; }
+
+#jckqv #jckqv_summary .mpcth-sale-wrap:before, #mpcth_page_wrap .woocommerce .mpcth-sale-wrap:before, .woocommerce-page #mpcth_page_wrap .mpcth-sale-wrap:before
+		{ border-bottom-color: #cf6666; }
+
+#mpcth_page_wrap .woocommerce .mpcth-sale-wrap:after, .woocommerce-page #mpcth_page_wrap .mpcth-sale-wrap:after
+		{ border-left-color: #cf6666; }
+
+#jckqv #jckqv_summary .mpcth-sale-wrap:after, #mpcth_page_wrap .mpcth-thumbs-sale-swap #jckWooThumbs_img_wrap + .mpcth-sale-wrap:after
+		{ border-right-color: #cf6666; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-webkit-input-placeholder,#mpcth_page_wrap #mpcth_smart_search_wrap #s::-webkit-input-placeholder
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-moz-placeholder,#mpcth_page_wrap #mpcth_smart_search_wrap #s:-moz-placeholder
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-moz-placeholder,#mpcth_page_wrap #mpcth_smart_search_wrap #s::-moz-placeholder
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-ms-input-placeholder,#mpcth_page_wrap #mpcth_smart_search_wrap #s:-ms-input-placeholder
+		{ color: #e87f7f; }
+#mpcth_page_wrap #mpcth_nav_mobile,
+#mpcth_page_wrap #mpcth_nav {font-family: Roboto Condensed;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3530 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3489 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3295 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3408 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3515 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3539 > .sub-container > .sub-menu {background-position: bottom center;}#mpcth_page_wrap #mpcth_mega_menu .menu-item-3290 > .sub-container > .sub-menu {background-position: bottom center;}
+#mpcth_page_header_wrap #mpcth_header_section
+		{ background-color: #1c1c1c; }
+
+#mpcth_page_header_wrap #mpcth_header_section {}
+
+#mpcth_page_header_wrap #mpcth_header_section #mpcth_mega_menu .sub-container > .sub-menu:after,
+#mpcth_header_section #mpcth_mini_cart:after,
+#mpcth_page_wrap #mpcth_mini_search:after,
+#mpcth_page_wrap #mpcth_page_header_wrap .sub-menu:after
+		{ border-top-color: #1c1c1c; }
+
+#mpcth_page_header_wrap #mpcth_header_section,
+#mpcth_nav .mpcth-menu .page_item.menu-item-has-children > a:after,
+#mpcth_nav .mpcth-menu .menu-item.menu-item-has-children > a:after,
+#mpcth_header_section #mpcth_page_header_content #mpcth_mega_menu .menu-item-has-children > a:after
+		{ border-color: #1c1c1c; }
+
+#mpcth_page_header_wrap #mpcth_header_section,
+#mpcth_page_header_wrap #mpcth_header_section a,
+#mpcth_page_header_wrap #mpcth_header_section #mpcth_nav a,
+#mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_header_section #mpcth_controls_wrap #mpcth_controls_container > a
+		{ color: #fcfcfc; }
+
+#mpcth_header_section #mpcth_page_header_content #mpcth_controls_wrap #mpcth_controls_container > a.active,
+#mpcth_header_section #mpcth_page_header_content #mpcth_controls_wrap #mpcth_controls_container > a:hover
+		{ background-color: #e87f7f; }
+
+#mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_header_section #mpcth_controls_wrap #mpcth_controls_container > a.active,
+#mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_header_section #mpcth_controls_wrap #mpcth_controls_container > a:hover,
+#mpcth_page_header_wrap.mpcth-sticky-header.mpcth-simple-buttons-enabled #mpcth_header_section #mpcth_controls_wrap #mpcth_controls_container > a.active,
+#mpcth_page_header_wrap.mpcth-sticky-header.mpcth-simple-buttons-enabled #mpcth_header_section #mpcth_controls_wrap #mpcth_controls_container > a:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section a:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section #mpcth_nav .current-menu-ancestor > a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section #mpcth_nav .current-menu-item > a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section #mpcth_nav #mpcth_mega_menu .current-menu-item > a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section #mpcth_nav #mpcth_mega_menu a:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_header_section #mpcth_nav a:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .mpcth-menu .menu-item:hover > a,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-sticky-header #mpcth_header_section #mpcth_nav .current-menu-ancestor > a,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-sticky-header #mpcth_header_section #mpcth_nav .current-menu-item > a,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-sticky-header #mpcth_header_section #mpcth_nav #mpcth_mega_menu .current-menu-item > a,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-sticky-header #mpcth_header_section #mpcth_nav #mpcth_mega_menu a:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-sticky-header #mpcth_header_section #mpcth_nav a:hover
+		{ color: #e87f7f; }
+#mpcth_header_second_section
+		{ background-color: #ffffff; }
+
+#mpcth_page_header_wrap #mpcth_header_second_section,
+#mpcth_page_header_wrap #mpcth_page_header_secondary_content,
+#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter:before,
+#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_secondary_menu:before,
+#mpcth_page_wrap #mpcth_secondary_mini_menu:before
+		{ border-color: #ffffff; }
+
+#mpcth_header_second_section #mpcth_page_header_secondary_content,
+#mpcth_header_second_section #mpcth_page_header_secondary_content a,
+#mpcth_header_second_section
+		{ color: #ffffff; }
+
+#mpcth_header_second_section #mpcth_page_header_secondary_content a:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter form:before,
+#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter .mpcth-newsletter-subscribe:before
+		{ border-left-color: #ffffff; }
+#mpcth_page_wrap #mpcth_toggle_header_area,
+#mpcth_page_wrap #mpcth_header_area_wrap
+		{ background-color: #ffffff; }
+
+#mpcth_page_wrap #mpcth_header_area_wrap #mpcth_header_area .widget-title
+		{ border-color: #eeeeee; }
+
+#mpcth_page_wrap #mpcth_toggle_header_area,
+#mpcth_page_wrap #mpcth_header_area
+		{ color: #2a2a2a; }
+
+#mpcth_page_wrap #mpcth_toggle_header_area:hover,
+#mpcth_page_wrap #mpcth_header_area_wrap #mpcth_header_area a:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_header_area_wrap #mpcth_header_area ul li:before
+		{ border-left-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_header_area_wrap #mpcth_header_area .mpcth-color-main-border
+		{ border-color: #e87f7f !important; }
+
+#mpcth_page_wrap #mpcth_header_area_wrap #mpcth_header_area .widget-title .mpcth-color-main-border
+		{ border-color: #2a2a2a !important; }
+#mpcth_page_wrap #mpcth_mobile_nav_wrap,
+#mpcth_simple_mobile_nav_wrap,
+#mpcth_page_wrap #mpcth_mini_search,
+#mpcth_page_wrap #mpcth_page_header_wrap .mpcth-menu .sub-menu,
+#mpcth_page_wrap #mpcth_secondary_mini_menu .sub-menu,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_mega_menu .sub-container > .sub-menu,
+#mpcth_page_wrap #mpcth_mini_cart
+		{ background-color: #ffffff; }
+
+#mpcth_simple_mobile_nav_wrap,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_mega_menu .sub-container > .sub-menu:before,
+#mpcth_page_wrap #mpcth_mini_cart:before,
+#mpcth_page_wrap #mpcth_mini_search:before,
+#mpcth_page_wrap #mpcth_page_header_wrap .sub-menu:before
+		{ border-top-color: #eeeeee; }
+
+#mpcth_page_wrap #mpcth_mobile_nav_wrap #mpcth_page_header_secondary_content,
+#mpcth_page_wrap #mpcth_mobile_nav_wrap #mpcth_nav_mobile .mpcth-mobile-menu .page_item.page_item_has_children > a,
+#mpcth_page_wrap #mpcth_mobile_nav_wrap #mpcth_nav_mobile .mpcth-mobile-menu .menu-item.menu-item-has-children > a,
+#mpcth_page_wrap #mpcth_simple_mobile_nav_wrap #mpcth_nav_mobile .mpcth-mobile-menu .page_item.page_item_has_children > a,
+#mpcth_page_wrap #mpcth_simple_mobile_nav_wrap #mpcth_nav_mobile .mpcth-mobile-menu .menu-item.menu-item-has-children > a,
+#mpcth_page_wrap #mpcth_mini_cart .mpcth-mini-cart-products .mpcth-mini-cart-thumbnail img,
+#mpcth_page_wrap #mpcth_mini_search,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_mega_menu .sub-container > .sub-menu,
+#mpcth_page_wrap #mpcth_page_header_wrap .sub-menu,
+#mpcth_page_wrap #mpcth_secondary_mini_menu .sub-menu,
+#mpcth_page_wrap #mpcth_page_header_wrap .widget .mega-hdr-a,
+#mpcth_page_wrap #mpcth_mini_cart,
+#mpcth_page_wrap #mpcth_mini_cart .mpcth-mini-cart-products
+		{ border-color: #eeeeee; }
+
+#mpcth_page_wrap #mpcth_mobile_nav_wrap #mpcth_nav_mobile,
+#mpcth_page_wrap #mpcth_mobile_nav_wrap #mpcth_nav_mobile a,
+#mpcth_page_wrap #mpcth_simple_mobile_nav_wrap #mpcth_nav_mobile,
+#mpcth_page_wrap #mpcth_simple_mobile_nav_wrap #mpcth_nav_mobile a,
+#mpcth_page_wrap #mpcth_mini_search,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_nav .sub-menu a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_secondary_mini_menu .sub-menu a,
+#mpcth_page_wrap #mpcth_mini_cart,
+#mpcth_page_wrap #mpcth_mini_cart #mpcth_mini_cart_wrap a.mpcth-mini-cart-title:hover,
+#mpcth_page_wrap #mpcth_mini_cart #mpcth_mini_cart_wrap a.alt:hover,
+#mpcth_page_wrap #mpcth_mini_cart a
+		{ color: #2a2a2a; }
+
+#mpcth_page_wrap #mpcth_mini_cart .button:hover,
+#mpcth_page_wrap #mpcth_mini_cart .button.alt,
+#mpcth_page_wrap #mpcth_mini_search #searchsubmit:hover
+		{ background-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_mini_cart .mpcth-mini-cart-subtotal,
+#mpcth_page_wrap #mpcth_mini_cart a.mpcth-mini-cart-title,
+#mpcth_page_wrap #mpcth_mini_cart a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_secondary_mini_menu .sub-menu a:hover,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_secondary_mini_menu .current-menu-item a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_page_header_container #mpcth_header_section #mpcth_nav .sub-menu .current-menu-ancestor > a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_page_header_container #mpcth_header_section #mpcth_nav .sub-menu .current-menu-item > a,
+#mpcth_page_wrap #mpcth_page_header_wrap #mpcth_page_header_container #mpcth_header_section #mpcth_nav .sub-menu a:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_page_header_wrap .mpcth-color-main-border
+		{ border-color: #e87f7f !important; }
+#mpcth_page_wrap #mpcth_smart_search_wrap
+		{ background-color: #ffffff; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap .mpcthSelect,
+#mpcth_page_wrap #mpcth_smart_search_wrap input[type=text]
+		{ border-color: #eeeeee; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap
+		{ color: #2a2a2a; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap #searchsubmit
+		{ background-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_smart_search_wrap select,
+#mpcth_page_wrap #mpcth_smart_search_wrap input,
+#mpcth_page_wrap #mpcth_smart_search_wrap .mpcthSelect
+		{ color: #e87f7f; }
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-webkit-input-placeholder,
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-webkit-input-placeholder
+		{ color: #e87f7f; }
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-moz-placeholder,
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-moz-placeholder
+		{ color: #e87f7f; }
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-moz-placeholder,
+#mpcth_page_wrap #mpcth_smart_search_wrap #s::-moz-placeholder
+		{ color: #e87f7f; }
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-ms-input-placeholder,
+#mpcth_page_wrap #mpcth_smart_search_wrap #s:-ms-input-placeholder
+		{ color: #e87f7f; }
+.mpcth-sidebar-left #mpcth_page_wrap #mpcth_sidebar,
+.mpcth-sidebar-right #mpcth_page_wrap #mpcth_sidebar,
+#mpcth_main_container:before
+		{ background-color: #ffffff; }
+
+#mpcth_sidebar,
+#mpcth_sidebar .widget .widget-title
+		{ border-color: #eeeeee; }
+
+.mpcth-sidebar-left #mpcth_page_wrap #mpcth_sidebar
+		{ border-right-color: #eeeeee; }
+.mpcth-sidebar-left #mpcth_page_wrap #mpcth_sidebar .mpcth-sidebar-arrow:before
+		{ border-left-color: #eeeeee; }
+
+.mpcth-sidebar-left #mpcth_page_wrap #mpcth_sidebar .mpcth-sidebar-arrow:after
+		{ border-left-color: #ffffff; }
+
+.mpcth-sidebar-left #mpcth_page_wrap #mpcth_content_wrap
+		{ border-left-color: #eeeeee; }
+
+.mpcth-sidebar-right #mpcth_page_wrap #mpcth_sidebar
+		{ border-left-color: #eeeeee; }
+
+.mpcth-sidebar-right #mpcth_page_wrap #mpcth_sidebar .mpcth-sidebar-arrow:before
+		{ border-right-color: #eeeeee; }
+
+.mpcth-sidebar-right #mpcth_page_wrap #mpcth_sidebar .mpcth-sidebar-arrow:after
+		{ border-right-color: #ffffff; }
+
+.mpcth-sidebar-right #mpcth_page_wrap #mpcth_content_wrap
+		{ border-right-color: #eeeeee; }
+
+#mpcth_sidebar,
+#mpcth_page_wrap #mpcth_main #mpcth_sidebar .mpc-w-twitter-widget .tweet a:hover
+		{ color: #2a2a2a; }
+
+#mpcth_sidebar .widget #searchform #searchsubmit:hover,
+#mpcth_sidebar .widget #searchform #searchsubmit.alt
+		{ background-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_main #mpcth_sidebar .widget a:hover,
+#mpcth_page_wrap #mpcth_main #mpcth_sidebar .widget.widget_text a,
+#mpcth_page_wrap #mpcth_sidebar .widget.mpc-w-twitter-widget a
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_sidebar ul li:before
+		{ border-left-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_sidebar .mpcth-color-main-border
+		{ border-color: #e87f7f !important; }
+
+#mpcth_page_wrap #mpcth_sidebar .widget-title .mpcth-color-main-border
+		{ border-color: #e87f7f !important; }
+#mpcth_page_wrap
+		{ background-color: #ffffff; }
+
+.page-template-template-lookbook-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:before,
+.page-template-template-lookbook-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:after,
+.page-template-template-fullwidth-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:before,
+.page-template-template-fullwidth-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:after,
+.page-template-template-fullwidth-with-sidebar-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:before,
+.page-template-template-fullwidth-with-sidebar-php.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:after,
+.page-template-default.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:before,
+.page-template-default.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:after,
+.single-product.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:before,
+.single-product.mpcth-sidebar-none #mpcth_main_container .mpcth-vc-row-wrap.mpcth-vc-row-wrap-image .mpcth-vc-row-wrap-arrow:after
+		{ border-bottom-color: #ffffff; }
+
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-topics,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-replies,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-forums,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-admin-links,
+.bbpress #mpcth_page_wrap #mpcth_content .forum .bbp-forum-form,
+.bbpress #mpcth_page_wrap #mpcth_content .reply .bbp-reply-form,
+.bbpress #mpcth_page_wrap #mpcth_content .topic .bbp-topic-form,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-forum-title,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-reply-title,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-topic-title,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-single-user-details #bbp-user-navigation,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-user-profile .bbp-user-section,
+#mpcth_page_wrap .woocommerce .shop_table tbody td,
+.woocommerce #mpcth_page_wrap .shop_table tbody td,
+.woocommerce-wishlist #mpcth_page_wrap #mpcth_content .shop_table tbody td,
+.woocommerce-wishlist #mpcth_page_wrap #mpcth_content .mpcth-mobile-wishlist .mpcth-wishlist-item,
+.woocommerce-cart #mpcth_page_wrap #mpcth_content .mpcth-mobile-cart .mpcth-cart-item,
+.woocommerce-cart #mpcth_page_wrap .mpcth-page-content > .woocommerce > form .shop_table_wrap .shop_table tbody td
+		{ border-top-color: #eeeeee; }
+
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-header,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-body .topic,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-body .forum,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-forum-header,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-reply-header,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-topic-header,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-single-user-details #bbp-user-navigation a,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-user-profile .bbp-user-section > p
+		{ border-bottom-color: #eeeeee; }
+
+@media only screen and (max-width: 480px) {
+	.mpcth-responsive .bbpress #mpcth_page_wrap #mpcth_content .bbp-forum-author,
+	.mpcth-responsive .bbpress #mpcth_page_wrap #mpcth_content .bbp-reply-author,
+	.mpcth-responsive .bbpress #mpcth_page_wrap #mpcth_content .bbp-topic-author
+		{ border-bottom-color: #eeeeee; }
+}
+
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-forum-author,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-reply-author,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-topic-author
+		{ border-right-color: #eeeeee; }
+
+.bbpress #mpcth_page_wrap #mpcth_content .forum,
+.bbpress #mpcth_page_wrap #mpcth_content .reply,
+.bbpress #mpcth_page_wrap #mpcth_content .topic,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-form,
+.bbpress #mpcth_page_wrap #mpcth_content .bbp-form legend,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-your-profile .bbp-form,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-your-profile .bbp-form legend,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper #bbp-your-profile .bbp-form .bbp-form .description,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper .subscription-toggle,
+.bbpress #mpcth_page_wrap #mpcth_content #bbp-user-wrapper .favorite-toggle,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .vc_separator.vc_sep_color_grey .vc_sep_line,
+#mpcth_page_wrap #mpcth_main .mpc-vc-deco-header,
+#mpcth_page_wrap #mpcth_content .mpcth-post .mpcth-post-title,
+#mpcth_page_wrap #mpcth_content .mpcth-post,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_accordion_header,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tab,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tabs .wpb_tabs_nav,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_toggle .mpcth-toggle-mark,
+#mpcth_page_wrap .mpcth-deco-header,
+#mpcth_page_wrap
+		{ border-color: #eeeeee; }
+
+#mpcth_page_wrap #mpcth_content .mpcth-deco-header .mpcth-color-main-border,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs #review_form_wrapper #reply-title,
+#mpcth_page_wrap #mpcth_comments #reply-title,
+.blog #mpcth_content .mpcth-post .mpcth-post-title > a,
+.page-template-template-blog-php #mpcth_content .mpcth-post .mpcth-post-title > a,
+#mpcth_page_wrap #mpcth_main .mpc-vc-deco-header span,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li.active a,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .woocommerce-tabs .tabs li:hover a
+		{ border-color: #eeeeee !important; }
+
+#jckqv #jckqv_summary h1:after,
+#jckqv #jckqv_summary .product_meta:after,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .vc_separator.mpcth-separator .vc_sep_holder_l .vc_sep_line:before,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .product_meta:after,
+.woocommerce-page.single-product #mpcth_page_wrap #mpcth_content > .product .product_share:after,
+#mpcth_page_wrap #mpcth_main .wpb_separator:before,
+#mpcth_page_wrap #mpcth_main .vc_text_separator:before
+		{ background-color: #eeeeee !important; }
+
+#mpcth_page_wrap
+		{ color: #4f4f4f; }
+#mpcth_footer_section
+		{ background-color: #ffffff;}
+
+#mpcth_footer #mpcth_toggle_mobile_footer,
+#mpcth_footer #mpcth_footer_section,
+#mpcth_footer #mpcth_footer_section .widget-title
+		{ border-color: #eeeeee; }
+
+#mpcth_footer_section
+		{ color: #f7f7f7; }
+
+#mpcth_footer #mpcth_footer_section a:hover
+		{ color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_footer_section ul li:before
+		{ border-left-color: #e87f7f; }
+
+#mpcth_page_wrap #mpcth_footer_section .mpcth-color-main-border
+		{ border-color: #e87f7f !important; }
+
+#mpcth_page_wrap #mpcth_footer_section .widget-title .mpcth-color-main-border
+		{ border-color: #2e2e2e !important; }
+#mpcth_footer_extended_section
+		{ background-color: #ffffff;}
+
+#mpcth_footer_extended_content:after
+		{ background-color: #eeeeee; }
+
+#mpcth_footer #mpcth_toggle_mobile_extended_footer,
+#mpcth_footer #mpcth_footer_extended_section .widget-title,
+#mpcth_footer #mpcth_footer_extended_section
+		{ border-color: #eeeeee; }
+
+#mpcth_footer_extended_section
+		{ color: #2a2a2a; }
+
+#mpcth_footer #mpcth_footer_extended_section a:hover
+		{ color: #09c6ba; }
+
+#mpcth_page_wrap #mpcth_footer_extended_section ul li:before
+		{ border-left-color: #09c6ba; }
+
+#mpcth_page_wrap #mpcth_footer_extended_section .mpcth-color-main-border
+		{ border-color: #09c6ba !important; }
+
+#mpcth_page_wrap #mpcth_footer_extended_section .widget-title .mpcth-color-main-border
+		{ border-color: #09c6ba !important; }
+#mpcth_footer_copyrights_section
+		{ background-color: #3d3d3d; }
+
+#mpcth_footer #mpcth_footer_copyrights_wrap,
+#mpcth_footer #mpcth_footer_copyrights_section
+		{ border-color: #eeeeee; }
+
+#mpcth_footer #mpcth_footer_copyrights_wrap
+		{ color: #f7f7f7; }
+
+#mpcth_footer #mpcth_footer_copyrights_section a:hover
+		{ color: #2e2e2e; }
+#mpcth_page_wrap #mpcth_nav,
+#mpcth_page_wrap #mpcth_controls_wrap
+		{ font-size: 16px; }
+
+#mpcth_page_wrap #mpcth_controls_wrap
+		{ font-size: 14px; }
+#mpcth_page_wrap #mpcth_page_header_secondary_content
+		{ font-size: 11px; }
+#mpcth_header_area_wrap #mpcth_header_area .widget-title
+		{ font-size: 13px; }
+
+#mpcth_header_area_wrap #mpcth_header_area,
+#mpcth_header_area_wrap #mpcth_header_area .widget
+		{ font-size: 13px; }
+
+#mpcth_header_area_wrap #mpcth_header_area .post-date,
+#mpcth_header_area_wrap #mpcth_header_area small
+		{ font-size: 12px; }
+#mpcth_page_wrap #mpcth_page_header_wrap .sub-menu,
+#mpcth_page_wrap #mpcth_controls_wrap #mpcth_mini_cart,
+#mpcth_page_wrap #mpcth_controls_wrap #mpcth_mini_search
+		{ font-size: 12px; }
+
+#mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_secondary_mini_menu .sub-menu
+		{ font-size: 12px; }
+#mpcth_page_wrap #mpcth_smart_search_wrap,
+#mpcth_page_wrap #mpcth_mini_search
+		{ font-size: 12px; }
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-page-title,
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-post-title
+		{ font-size: 15px; }
+
+#mpcth_page_wrap #mpcth_content_wrap,
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-post-content
+		{ font-size: 14px; }
+
+#mpcth_page_wrap #mpcth_content_wrap small,
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-post-categories,
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-post-meta,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .mpcth-slide-count,
+#mpcth_page_wrap #mpcth_main_container #mpcth_content_wrap .mpcth-slide-time
+		{ font-size: 12px; }
+#mpcth_page_wrap #mpcth_sidebar .widget-title
+		{ font-size: 13px; }
+
+#mpcth_page_wrap #mpcth_sidebar .widget
+		{ font-size: 13px; }
+
+#mpcth_page_wrap #mpcth_sidebar .post-date,
+#mpcth_page_wrap #mpcth_sidebar small
+		{ font-size: 12px; }
+#mpcth_footer #mpcth_footer_section .widget-title
+		{ font-size: 13px; }
+
+#mpcth_footer #mpcth_footer_section,
+#mpcth_footer #mpcth_footer_section .widget
+		{ font-size: 13px; }
+
+#mpcth_footer #mpcth_footer_section .post-date,
+#mpcth_footer #mpcth_footer_section small
+		{ font-size: 12px; }
+#mpcth_footer #mpcth_footer_extended_section .widget-title
+		{ font-size: 13px; }
+
+#mpcth_footer #mpcth_footer_extended_section,
+#mpcth_footer #mpcth_footer_extended_section .widget
+		{ font-size: 13px; }
+
+#mpcth_footer #mpcth_footer_extended_section .post-date,
+#mpcth_footer #mpcth_footer_extended_section small
+		{ font-size: 12px; }
+#mpcth_footer #mpcth_footer_copyrights_section,
+#mpcth_footer #mpcth_footer_copyrights_section #mpcth_footer_socials
+		{ font-size: 12px; }
+#bbpress-forums #bbp_search_submit, #bbpress-forums .summary .yith-wcwl-add-to-wishlist a,
+#bbpress-forums #searchsubmit, #bbpress-forums #review_form_wrapper #submit,
+#bbpress-forums button.button, #bbpress-forums input.button, #bbpress-forums a.button,
+#searchform #bbp_search_submit, #searchform .summary .yith-wcwl-add-to-wishlist a,
+#searchform #searchsubmit, #searchform #review_form_wrapper #submit,
+#searchform button.button, #searchform input.button, #searchform a.button,
+#mpcth_page_wrap .woocommerce #bbp_search_submit,
+#mpcth_page_wrap .woocommerce .summary .yith-wcwl-add-to-wishlist a,
+#mpcth_page_wrap .woocommerce #searchsubmit,
+#mpcth_page_wrap .woocommerce #review_form_wrapper #submit,
+#mpcth_page_wrap .woocommerce button.button, #mpcth_page_wrap .woocommerce input.button,
+#mpcth_page_wrap .woocommerce a.button, .woocommerce #mpcth_page_wrap #bbp_search_submit,
+.woocommerce #mpcth_page_wrap .summary .yith-wcwl-add-to-wishlist a,
+.woocommerce #mpcth_page_wrap #searchsubmit,
+.woocommerce #mpcth_page_wrap #review_form_wrapper #submit,
+.woocommerce #mpcth_page_wrap button.button, .woocommerce #mpcth_page_wrap input.button,
+.woocommerce #mpcth_page_wrap a.button,
+.woocommerce-page.single-product #mpcth_page_wrap .cart .quantity .plus-wrap,
+.woocommerce-page.single-product #mpcth_page_wrap .cart .quantity .minus-wrap,
+.woocommerce-cart #mpcth_page_wrap .cart .quantity .plus-wrap,
+.woocommerce-cart #mpcth_page_wrap .cart .quantity .minus-wrap,
+body #mpcth_page_header_content #mpcth_controls_wrap #mpcth_controls_container > a,
+#mpcth_page_wrap #mpcth_mini_cart .button,
+#jckqv #jckqv_summary .yith-wcwl-add-to-wishlist a,
+#jckqv #jckqv_summary .single_add_to_cart_button,
+.blog #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more,
+.page-template-template-blog-php #mpcth_content .mpcth-post .mpcth-post-footer .mpcth-read-more,
+#mpcth_page_wrap #mpcth_smart_search_wrap #searchsubmit,
+#mpcth_comments #respond #mpcth_comment_form input[type=submit],
+.wpcf7 .form-submit .wpcf7-submit,
+#mpcth_page_wrap .woocommerce.widget.widget_price_filter .button,
+#mpcth_page_wrap .woocommerce.widget.widget_layered_nav_filters .chosen a,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_button,
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .vc_btn3,
+#mpcth_page_wrap .mpcth-page .mpcth-page-content .post-password-form input[type=submit],
+#mpcth_page_wrap .mpcth-page .mpcth-page-content .post-password-form input[type=submit]:hover
+	{ border-color: transparent; }
+body #mpcth_page_header_content
+		{ padding: 15px 25px 15px 25px;}
+body #mpcth_page_header_secondary_content
+		{ padding: 0px 0px 0px 0px; }
+body #mpcth_footer_content
+		{ padding: 0px 20px 0px 20px; }
+body #mpcth_footer_extended_content
+		{ padding: 0px 20px 0px 20px; }
+body #mpcth_footer_copyrights_section
+		{ padding: 0px 0px 0px 0px;}
+#mpcth_menu > .menu-item > a,
+#mpcth_page_wrap #mpcth_mega_menu .widget ul.menu > li > a,
+body #mpcth_page_header_content #mpcth_controls_wrap
+	{ padding: 1.5em .3em 1.5em; }
+#mpcth_page_wrap #mpcth_page_header_wrap.mpcth-simple-buttons-enabled #mpcth_controls_wrap #mpcth_controls_container
+	{ padding: 0; }
+body #mpcth_page_header_content #mpcth_controls_wrap,
+body #mpcth_page_header_content #mpcth_nav
+	{ vertical-align: middle; }
+		
+.mpcth-vc-row-wrap-arrow {
+ display: none;
+}
+
+.mpc-align-right {
+ text-align: right;
+}
+
+.mpc-align-left {
+ text-align: left;
+}
+
+#mpcth_page_wrap #mpcth_main .mpcth-socials-list-wrap {
+ margin-bottom: 1.5em;
+ text-align: center;
+}
+
+.vc_sep_holder > span {
+ border-width: 2px !important;
+}
+
+#mpcth_page_wrap #mpcth_main .mpcth-socials-list {
+ font-size: 24px;
+ display: inline-block;
+}
+
+.mpcth-socials-list a {
+ color: #3b3b3b !important;
+}
+
+.mpcth-socials-list a:hover {
+ color: #09c6ba !important;
+}
+
+.gallery-right .mpcth-overlay-image {
+ background-position: 80% 50% !important;
+}
+
+.gallery-left .mpcth-overlay-image {
+ background-position: 80% 20% !important;
+}
+
+#mpcth_nav_mobile a {
+ color: #2a2a2a;
+}
+
+.mpcth-page-content .mpcth-vc-row-wrap:nth-child(2n+1) .mpcth-overlay-image {
+ background-position: 75% 50% !important;
+}
+
+.mpcth-page-content .mpcth-vc-row-wrap:nth-child(2n+2) .mpcth-overlay-image {
+ background-position: 20% 50% !important;
+}
+
+@media only screen and (max-width: 768px) {
+ .mpcth-overlay-image {
+  opacity: .5;
+  filter: alpha(opacity=50);
+ }
+}
+
+.mpcth-responsive #mpcth_page_header_container .mpcth-header-wrap {
+ width: 100% !important;
+}
+
+#mpcth_back_to_top {
+ color: #4e4e4e !important;
+ border-color: #4e4e4e !important;
+}
+
+.page-template-template-fullwidth-php .mpcth-page .mpcth-page-content {
+ padding-bottom: 0;
+}
+
+#mpcth_page_wrap #mpcth_sidebar .widget-title .mpcth-color-main-border {
+    border-color: #2e2e2e !important;
+}
+
+#mpcth_page_wrap .mpcth-color-main-border {
+    border-color: #2e2e2e !important;
+}
+
+#mpcth_page_wrap #mpcth_content_wrap .mpcth-post-title {
+    font-size: 16px;
+    line-height: 1.2em;
+}
